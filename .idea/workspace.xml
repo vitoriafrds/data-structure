@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9b31611-76fd-4204-9d94-b01fc743d083" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/src/BubbleSortVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSortVetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/CalcularMatriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalcularMatriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/FatorialVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FatorialVetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/MediaVetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MediaVetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +25,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vitoria\Documents\git\data-structure" />
       <recent name="C:\Users\vitoria\Documents\git\data-structure\.idea" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="estrutura-de-dados" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="data-structure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -53,10 +69,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581362075210">
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581362522356">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1581362075210" />
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1581362522356" />
+    <state x="568" y="318" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581362539936">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="568" y="318" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.860@0.0.1440.860" timestamp="1581362539936" />
     <state x="500" y="146" key="FileChooserDialogImpl" timestamp="1581361656520">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
